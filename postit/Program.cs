@@ -26,6 +26,8 @@ namespace postit
 			Console.BackgroundColor = ConsoleColor.Blue;
 			Console.WriteLine($"Szín: {v3.Szin} Tartalom: {v3.Tartalom}");
 			Console.BackgroundColor = ConsoleColor.Black;
-		}
+
+
+			kruvA
 	}
 }
